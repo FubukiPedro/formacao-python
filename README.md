@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 📘 Curso Python 3 — Do Básico ao Avançado
 
 Repositório com exercícios, exemplos e projetos desenvolvidos durante o curso **Python 3 do básico ao avançado**.
@@ -155,4 +154,3 @@ Construir uma base sólida em Python com foco em desenvolvimento backend, aplica
 ## 🚀 Status
 
 📌 Em constante atualização conforme avanço nos estudos e desenvolvimento de projetos.
->>>>>>> 34c656ebd30b88f4c29a4a4b4a59372cad4f2caf
