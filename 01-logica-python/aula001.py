@@ -1,4 +1,4 @@
-# comentário em python
+# comentários em python
 print(123)
 # comentários utilizando "#" (comentário de verdade)
 print(456)
