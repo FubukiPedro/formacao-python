@@ -7,7 +7,7 @@ Inclui exercícios práticos, exemplos, aplicações reais e projetos desenvolvi
 
 ## 🚧 Status
 
-📍 Progresso atual: **01 - Lógica de Programação**  
+📍 Progresso atual: **01-logica-python**  
 📌 Repositório em constante atualização conforme avanço nos estudos.
 
 ---
