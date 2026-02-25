@@ -20,7 +20,6 @@ elif condicao4:
 else:
     print('Nenhuma condição foi satisfeita.')
 
-
 if 10 == 10:
     print('Outro if')
 
