@@ -1,4 +1,4 @@
-# concatenação é quando você junta duas ou mais strings (textos) para formar uma só.
+# concatenação é quando voce junta duas ou mais strings (textos) para formar uma só.
 
 concatenacao = 'Pedro' + ' ' + 'Henrique'
 print(concatenacao)
