@@ -24,4 +24,4 @@ else:
 if 30 == 30:
     print('Outro if')
 
-print('Fora do if')
+print('Fora do if!')
