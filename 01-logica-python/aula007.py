@@ -18,6 +18,7 @@ dia = 27
 mes = 11
 ano = 2004
 maior_de_idade = idade >= 18
+
 print('Nome:', nome, 'Idade:', idade)
 print('Data de nascimento: ', end='')
 print(dia, mes, ano, sep='/')
