@@ -1,6 +1,6 @@
 a = 'letra A'
 b = 'letra B'
-c = 10.5
+c = 10.8
 
 string = 'a = {letraA} / b = {letraB} / c = {numero}'
 formato = string.format(
