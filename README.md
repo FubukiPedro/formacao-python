@@ -1,22 +1,20 @@
-<<<<<<< HEAD
-# 📘 Curso Python 3 — Do Básico ao Avançado
+# 🐍 Formação Completa em Python
 
-Repositório com exercícios, exemplos e projetos desenvolvidos durante o curso **Python 3 do básico ao avançado**.
+Repositório dedicado ao estudo aprofundado da linguagem Python, documentando minha evolução do básico ao avançado.  
+Inclui exercícios práticos, exemplos, aplicações reais e projetos desenvolvidos ao longo da formação.
 
 ---
 
 ## 🚧 Status
 
-Em andamento  
-📍 Progresso atual: 01-logica-python
-
-Este repositório será atualizado conforme avanço no curso.
+📍 Progresso atual: **01-logica-python**  
+📌 Repositório em constante atualização conforme avanço nos estudos.
 
 ---
 
 ## 📂 Estrutura do Repositório
 
-- 01-logica-python **(atual)**
+- 01-logica-python *(atual)*
 - 02-python-intermediario
 - 03-poo
 - 04-modulos-python
@@ -31,58 +29,30 @@ Cada pasta representa uma etapa da evolução no aprendizado da linguagem.
 
 ---
 
-## 🧠 Conteúdos que serão abordados
+## 📚 Conteúdos Abordados
 
-- Lógica de programação
-- Estruturas de dados
-- Funções e módulos
-- Programação Orientada a Objetos
-- Manipulação de arquivos
-- Banco de dados (SQLite e MySQL)
-- Desenvolvimento web com Django
-- Testes e TDD
-- Recursos avançados do Python (Type Hints, Design Patterns, Regex)
-- HTML e CSS
-=======
-# 🐍 Formação Completa em Python
-
-Repositório dedicado ao estudo aprofundado da linguagem Python, cobrindo desde fundamentos da programação até desenvolvimento web, banco de dados, testes e padrões de projeto.
-
-O conteúdo inclui exercícios práticos, aplicações reais e projetos completos desenvolvidos ao longo da formação.
-
----
-
-## 📚 Estrutura do Conteúdo
-
-### 🔹 1. Fundamentos da Programação
+### 🔹 Fundamentos da Programação
 - Configuração de ambiente (Python + VS Code)
 - Variáveis e tipos de dados
-- Estruturas condicionais
-- Estruturas de repetição
+- Estruturas condicionais e repetitivas
 - Funções
 - Introdução à lógica de programação
 
----
-
-### 🔹 2. Python Intermediário
-- Dicionários
+### 🔹 Python Intermediário
+- Listas, tuplas e dicionários
 - Modularização
 - Programação funcional
 - Manipulação de arquivos
 - Tratamento de exceções
 
----
-
-### 🔹 3. Programação Orientada a Objetos (POO)
+### 🔹 Programação Orientada a Objetos (POO)
 - Classes e objetos
 - Encapsulamento
 - Herança e polimorfismo
 - Métodos especiais
 - Padrões de projeto (GoF)
 
----
-
-### 🔹 4. Módulos e Bibliotecas
+### 🔹 Módulos e Bibliotecas
 - os
 - datetime
 - sys
@@ -92,54 +62,33 @@ O conteúdo inclui exercícios práticos, aplicações reais e projetos completo
 - pillow
 - Expressões regulares (re)
 
----
-
-### 🔹 5. Banco de Dados
+### 🔹 Banco de Dados
 - SQLite (sqlite3)
 - MySQL (pymysql)
 - SQL aplicado ao Python
 
----
-
-### 🔹 6. Desenvolvimento Web com Django
-- Fundamentos do framework
+### 🔹 Desenvolvimento Web
+- Fundamentos do Django
 - Estrutura de projetos
 - Projeto Agenda
 - Projeto Blog
 - Projeto E-commerce
 - Deploy em ambiente Linux
 
----
-
-### 🔹 7. Interface Gráfica Desktop
-- PySide6 (Qt 6)
-
----
-
-### 🔹 8. Testes e Qualidade de Código
+### 🔹 Testes e Qualidade de Código
 - unittest
 - Introdução ao TDD
 - Type Hints (Python 3.10)
 - Structural Pattern Matching
 
----
-
-### 🔹 9. Fundamentos Complementares
+### 🔹 Fundamentos Complementares
 - HTML5 e CSS3
 - Landing Page
 - Comandos Linux/Unix
->>>>>>> 34c656ebd30b88f4c29a4a4b4a59372cad4f2caf
 
 ---
 
-## 🎯 Objetivo
-
-<<<<<<< HEAD
-Construir domínio sólido em Python e desenvolvimento backend, aplicando boas práticas e organização de código em projetos progressivamente mais complexos.
-
----
-
-## 🛠 Tecnologias
+## 🛠 Tecnologias Utilizadas
 
 - Python 3
 - Django
@@ -147,12 +96,9 @@ Construir domínio sólido em Python e desenvolvimento backend, aplicando boas p
 - MySQL
 - PySide6
 - HTML5 e CSS3
-=======
-Construir uma base sólida em Python com foco em desenvolvimento backend, aplicando boas práticas, organização de código e conceitos utilizados no mercado.
 
 ---
 
-## 🚀 Status
+## 🎯 Objetivo
 
-📌 Em constante atualização conforme avanço nos estudos e desenvolvimento de projetos.
->>>>>>> 34c656ebd30b88f4c29a4a4b4a59372cad4f2caf
+Construir domínio sólido em Python com foco em desenvolvimento backend, aplicando boas práticas, organização de código e conceitos utilizados no mercado em projetos progressivamente mais complexos.
