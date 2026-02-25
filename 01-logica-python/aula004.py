@@ -1,4 +1,4 @@
-# int e float
+# int e float:
 
 # int -> inteiro
 # int é qualquer numero se ., seja ele negativo ou positivo
