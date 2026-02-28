@@ -14,11 +14,18 @@ RADAR_1 = 60  # velocidade máxima do radar 1
 LOCAL_1 = 100  # local onde o radar 1 está
 RADAR_RANGE = 1  # A distância onde o radar pega
 
-vel_carro_pass_radar_1 = velocidade > RADAR_1 # se essa bool for True, significa que o carro está acima da velocidade permitida.
+vel_car_passou_radar_1 = velocidade > RADAR_1
+loc_car_passou_radar_1 = (local_carro >= LOCAL_1 - RADAR_RANGE) and (local_carro <= LOCAL_1 + RADAR_RANGE)
+mul_car_passou_radar_1 = vel_car_passou_radar_1 and loc_car_passou_radar_1
 
+if vel_car_passou_radar_1:
+    print('Você está acima da velocidade permitida pelo radar 1')
 
-if vel_carro_pass_radar_1:
-    print(f'Velocidade carro passou do radar 1: {velocidade}')
+if loc_car_passou_radar_1:
+    print('Você passou pelo radar 1')
 
-if local_carro >= (LOCAL_1 - RADAR_RANGE) and local_carro <= (LOCAL_1 + RADAR_RANGE):
-    print('Você foi multado em radar 1')
+if mul_car_passou_radar_1:
+    print('Você foi multado pelo radar 1')
+
+if loc_car_passou_radar_1 and not mul_car_passou_radar_1:
+    print('Você estava abaixo do limite de velocidade e não foi multado.')
