@@ -23,3 +23,45 @@ contrário disso:
 
 O primeiro dígito do CPF é 7
 """
+
+cpf = '74682489070'
+nove_digitos = cpf [:9]
+
+resultado_digito_1 = 0
+contador_regressivo_1 = 10
+for digito in nove_digitos:
+    resultado_digito_1 += int(digito) * contador_regressivo_1
+    contador_regressivo_1 -= 1
+digito_1 = (resultado_digito_1 * 10) % 11
+digito_1 = digito_1 if digito_1 <= 9 else 0
+
+print(digito_1)
+
+
+"""
+Minha primeira tentativa
+
+cpf = '74682489070'
+digitos = []
+for digito in cpf:
+    digitos.append(digito)
+
+multiplicador = 10
+i = 0
+soma = 0
+
+while multiplicador >= 2:
+    soma += multiplicador * int(digitos[i])
+    i += 1
+    multiplicador -= 1
+
+calculo = (soma * 10) % 11
+print(calculo)
+
+if calculo > 9:
+    resultado = 0
+    digitos[0] = resultado
+
+cpf_verificado = ''.join(digitos)
+print(cpf_verificado)
+"""
