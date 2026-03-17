@@ -7,15 +7,15 @@ Inclui exercícios práticos, exemplos, aplicações reais e projetos desenvolvi
 
 ## 🚧 Status
 
-📍 Progresso atual: **01-logica-python**  
+📍 Progresso atual: **02-python-intermediario**  
 📌 Repositório em constante atualização conforme avanço nos estudos.
 
 ---
 
 ## 📂 Estrutura do Repositório
 
-- 01-logica-python *(atual)*
-- 02-python-intermediario
+- 01-logica-python 
+- 02-python-intermediario *(atual)*
 - 03-poo
 - 04-modulos-python
 - 05-pyside6
