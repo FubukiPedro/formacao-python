@@ -14,16 +14,16 @@ Inclui exercícios práticos, exemplos, aplicações reais e projetos desenvolvi
 
 ## 📂 Estrutura do Repositório
 
-- 01-logica-python 
-- 02-python-intermediario *(atual)*
-- 03-poo
-- 04-modulos-python
-- 05-pyside6
-- 06-banco-de-dados
-- 07-django
-- 08-testes-e-tdd
-- 09-python-avancado
-- 10-html-css
+- ✅ 01-logica-python 
+- 📍 02-python-intermediario ***(atual)***
+- ⏳ 03-poo
+- ⏳ 04-modulos-python
+- ⏳ 05-pyside6
+- ⏳ 06-banco-de-dados
+- ⏳ 07-django
+- ⏳ 08-testes-e-tdd
+- ⏳ 09-python-avancado
+- ⏳ 10-html-css
 
 Cada pasta representa uma etapa da evolução no aprendizado da linguagem.
 
