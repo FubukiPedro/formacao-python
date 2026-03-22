@@ -15,4 +15,3 @@ print(soma(11,5))
 
 #variavel = print('Pedro')
 #print(variavel is None)
-
